@@ -1,4 +1,4 @@
-# Company Research Skill / 公司调研助手
+# Company Picker Skill / 公司选择助手
 
 [English](#english) | [中文](#中文)
 
@@ -9,7 +9,7 @@
 
 ### Overview
 
-A Claude Code skill that helps job seekers comprehensively research target companies and generate structured markdown reports.
+A Claude Code skill that helps job seekers comprehensively research target companies and generate structured markdown reports for informed career decisions.
 
 ### Features
 
@@ -61,10 +61,10 @@ Priority by credibility:
 
 ### Installation
 
-1. Copy the `SKILL.md` file to your Claude Code skills directory:
+1. Copy the `company-picker.md` file to your Claude Code skills directory:
    ```bash
-   mkdir -p ~/.claude/skills/company-research
-   cp SKILL.md ~/.claude/skills/company-research/
+   mkdir -p ~/.claude/skills/company-picker
+   cp company-picker.md ~/.claude/skills/company-picker/SKILL.md
    ```
 
 2. Restart Claude Code or reload skills
@@ -87,7 +87,7 @@ MIT License
 
 ### 概述
 
-一个 Claude Code 技能，帮助求职者全面调研目标公司，生成结构化的 Markdown 报告。
+一个 Claude Code 技能，帮助求职者全面调研目标公司，生成结构化的 Markdown 报告，助力职业决策。
 
 ### 功能特点
 
@@ -139,10 +139,10 @@ MIT License
 
 ### 安装方法
 
-1. 将 `SKILL.md` 文件复制到 Claude Code 技能目录：
+1. 将 `company-picker.md` 文件复制到 Claude Code 技能目录：
    ```bash
-   mkdir -p ~/.claude/skills/company-research
-   cp SKILL.md ~/.claude/skills/company-research/
+   mkdir -p ~/.claude/skills/company-picker
+   cp company-picker.md ~/.claude/skills/company-picker/SKILL.md
    ```
 
 2. 重启 Claude Code 或重新加载技能
